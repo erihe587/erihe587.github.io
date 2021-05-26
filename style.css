@@ -1,3 +1,5 @@
-h4 {
-    display: none;
+.container {
+    flex-flow: column wrap;
+    align-items: flex-start;
+    box-sizing: border-box;
 }
